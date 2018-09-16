@@ -5,7 +5,7 @@ Currently lacking much functionality. Will improve as I do.
 
 BETA 
 
-0.1.0.1
+0.2.1.
 
 
 9/15/18 - Built. CM to IN functionality. 
