@@ -16,3 +16,4 @@ BETA
 9/16/18 - Revisions in progress. Editing build. Adding other units, such as feet, yards, miles etc.
 
 9/17/18 - Full functionality for converting inches into other units. Hit a wall for user input detection with the other units. Will continue to work on.
+9/17/18 - Added 'const' to all constant values.
